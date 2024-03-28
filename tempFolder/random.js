@@ -6,5 +6,4 @@ function getRandomInt(max) {
         console.log('You lose');
     }
 }
-
 getRandomInt(5);
