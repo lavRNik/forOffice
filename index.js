@@ -1,3 +1,5 @@
+// тут еще добавить пару фишек
+
 const fs = require('fs');
 let logFile = 'C:/priceChecker/objects/log.log';
 let result = 'C:/priceChecker/objects/result.txt';
