@@ -1,4 +1,4 @@
-function getRandomInt(max) {
+function getRandom(max) {
     let randomNumber =  Math.floor(Math.random() * max);
     if (randomNumber % 2 === 0) {
         console.log('You win');
@@ -6,4 +6,4 @@ function getRandomInt(max) {
         console.log('You lose');
     }
 }
-getRandomInt(5);
+getRandom(5);
